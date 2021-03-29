@@ -21,7 +21,7 @@
 <a href=https://discord.gg/HQgfNzW target="blank"><img align="center" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png alt="languages JavaScript"  width="26" /></a>
 <a href=https://discord.gg/HQgfNzW target="blank"><img align="center" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png alt="languages MySQL"  width="26" /></a>
 <a href=https://discord.gg/HQgfNzW target="blank"><img align="center" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png alt="languages LUA"  width="26" /></a>
-<a href=https://discord.gg/HQgfNzW target="blank"><img align="center" 
+
 
 ### FIVEM
 
